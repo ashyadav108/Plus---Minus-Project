@@ -2,7 +2,7 @@
 
 The Plus and Minus Counter Application is a simple web-based utility that allows users to increment or decrement a counter value using buttons.
 
-![Git-user Detective Preview](./assets/preview.png)
+![PLus and MINUS Counter Application](./assets/preview.png)
 
 ## Table of Contents
 
